@@ -1,3 +1,28 @@
 @charset "UTF-8";
 /* CSS Document */
+*{
+	background-color:#A0CCF6;
+}
+p.displayed {
+	font-family:TrebuchetMS;
+	font-size:45px;
+	color:black;
+}
+p{
+	text-align: center;
+	color: #777777;
+	font-family:Trebuchet MS; 
+	font-size:20px
+}
+a{ 
+	text-decoration:none;
+	color:#606060;
+}
+IMG.portrait {
+    display: block;
+	width:500px;
+	length:500px;
+    margin-left: auto;
+    margin-right: auto 
+}
 
